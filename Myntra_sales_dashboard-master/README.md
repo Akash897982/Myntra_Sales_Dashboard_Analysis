@@ -9,7 +9,7 @@
 1) Power BI
 2) Excel
 
-## NovyPro Dashboard link: 
+## Power Bi Dashboard link: 
 (https://app.powerbi.com/links/kIo6SXl_Qa?ctid=d3252683-28b3-48e2-af20-d7cea511caf4&pbi_source=linkShare)
 ## Key Features:
 1) This entails establishing key performance indicators (KPIs) for revenue, orders, sales amount, and total products.
