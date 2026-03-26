@@ -72,15 +72,6 @@ Myntra_Sales_Dashboard/
 🔗 **View Interactive Dashboard:**
 [https://app.powerbi.com/links/kIo6SXl_Qa?ctid=d3252683-28b3-48e2-af20-d7cea511caf4&pbi_source=linkShare](https://app.powerbi.com/links/kIo6SXl_Qa?ctid=d3252683-28b3-48e2-af20-d7cea511caf4&pbi_source=linkShare)
 
----
-
-## 📸 Dashboard Preview
-
-![Myntra Sales Dashboard](dashboard.png)
-
-> Upload your image as **dashboard.png** in your GitHub repo for this preview to work.
-
----
 
 ## 📌 Use Cases
 
