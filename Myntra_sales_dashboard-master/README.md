@@ -17,7 +17,7 @@ https://www.novypro.com/project/myntra-sales-dashboard-1
 2) The project aims to identify top-selling brands and their revenue, analyze owned brands and their product count, and visualize daily sales distribution by category.
 3) Determining total sales by category for each state and identifying best-selling products within categories complete the analysis.
 
-![final](https://github.com/akash/Myntra_sales_dashboard/assets/166474700/61fabbcf-91b9-45ad-b38f-1361bd88d28c)
+![final](https://app.powerbi.com/links/kIo6SXl_Qa?ctid=d3252683-28b3-48e2-af20-d7cea511caf4&pbi_source=linkShare)
 
 
 
