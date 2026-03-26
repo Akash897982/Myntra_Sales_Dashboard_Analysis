@@ -16,5 +16,5 @@
 2) The project aims to identify top-selling brands and their revenue, analyze owned brands and their product count, and visualize daily sales distribution by category.
 3) Determining total sales by category for each state and identifying best-selling products within categories complete the analysis.
 
-![final]
+
 
